@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "550759059158",
+    "firebase_url": "https://restaurant-management-sy-14b07.firebaseio.com",
+    "project_id": "restaurant-management-sy-14b07",
+    "storage_bucket": "restaurant-management-sy-14b07.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:550759059158:android:5589504c83e54b9b054377",
+        "android_client_info": {
+          "package_name": "com.dineout"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "550759059158-l4hr9nnc15e62r2jlls8e6tait04gvb6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dineout",
+            "certificate_hash": "24f1faca6e55c0f3f2f7a8e6922b37a1e525283f"
+          }
+        },
+        {
+          "client_id": "550759059158-qo079cg0igl2k33m1705l9pjuqd1toi3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOvJLnk1fUkZ3m34qy269CxqE8WsDaR2A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "550759059158-qo079cg0igl2k33m1705l9pjuqd1toi3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
